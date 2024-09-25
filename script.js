@@ -65,3 +65,14 @@ function scrollFunction() {
     mybutton.style.display = "none";
   }
 }
+
+
+// function click(){
+//   console.log("WNiwi")
+//   alert("Clicked")
+// }
+
+// document.getElementById("btl").addEventListener("onclick",function(){
+//   console.log("WNiwi")
+//   alert("Clicked")
+// })
